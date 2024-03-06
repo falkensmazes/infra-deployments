@@ -13,7 +13,7 @@ images:
     newTag: 4863efdb4d1ee29572a6f6052a19e514757a50a0
 configMapGenerator:
   - literals:
-      - GITHUB_ORG=https://github.com/falkensmazes/infra-deployments.git
+      - GITHUB_ORG=falkensmazes
     name: github-config
     behavior: replace
   - literals:
