@@ -4,4 +4,4 @@
   value: https://github.com/falkensmazes/infra-deployments.git
 - op: replace
   path: /spec/template/spec/source/targetRevision
-  value: preview-infra-test
+  value: preview-preview-infra-test
